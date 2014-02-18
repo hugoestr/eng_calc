@@ -1,0 +1,9 @@
+N:\Dropbox\Learning\Programming\eng_calc\calculator_wht\bin\Debug\calculator_wht.exe.config
+N:\Dropbox\Learning\Programming\eng_calc\calculator_wht\obj\Debug\calculator_wht.csprojResolveAssemblyReference.cache
+N:\Dropbox\Learning\Programming\eng_calc\calculator_wht\obj\Debug\MainWindow.baml
+N:\Dropbox\Learning\Programming\eng_calc\calculator_wht\obj\Debug\MainWindow.g.cs
+N:\Dropbox\Learning\Programming\eng_calc\calculator_wht\obj\Debug\App.g.cs
+N:\Dropbox\Learning\Programming\eng_calc\calculator_wht\obj\Debug\calculator_wht_MarkupCompile.cache
+N:\Dropbox\Learning\Programming\eng_calc\calculator_wht\obj\Debug\calculator_wht.g.resources
+N:\Dropbox\Learning\Programming\eng_calc\calculator_wht\obj\Debug\calculator_wht.Properties.Resources.resources
+N:\Dropbox\Learning\Programming\eng_calc\calculator_wht\obj\Debug\calculator_wht.csproj.GenerateResource.Cache
