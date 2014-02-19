@@ -15,7 +15,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-using WaveStructure;
+using WaveCalculator.Lib;
 
 
 
@@ -58,13 +58,27 @@ namespace calculator_wht
 
     public partial class MainWindow : Window
     {
+        Calculator calculator;
         public MainWindow()
         {
             InitializeComponent();
+            calculator = new Calculator();
         }
 
         private void box_L_TextChanged(object sender, TextChangedEventArgs e)
         {
+
+        }
+
+        private void Calculate_Click(object sender, RoutedEventArgs e)
+        {
+            var h = double.Parse(box_h.Text);
+            var H = double.Parse(box_H.Text);
+            var L = double.Parse(box_L.Text);
+
+            var result = calculator.Calculate(L, H, h);
+
+            Result.Content = result.state;
 
         }
     }

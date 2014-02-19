@@ -1,0 +1,5 @@
+C:\development\dotnet\eng_calc\calculator_wht\WaveCalculator.Lib\bin\Debug\WaveCalculator.Lib.dll
+C:\development\dotnet\eng_calc\calculator_wht\WaveCalculator.Lib\bin\Debug\WaveCalculator.Lib.pdb
+C:\development\dotnet\eng_calc\calculator_wht\WaveCalculator.Lib\obj\Debug\WaveCalculator.Lib.csprojResolveAssemblyReference.cache
+C:\development\dotnet\eng_calc\calculator_wht\WaveCalculator.Lib\obj\Debug\WaveCalculator.Lib.dll
+C:\development\dotnet\eng_calc\calculator_wht\WaveCalculator.Lib\obj\Debug\WaveCalculator.Lib.pdb
